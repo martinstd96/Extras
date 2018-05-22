@@ -1,0 +1,5 @@
+2  carne pica  9210  144.0
+
+DESCUENTO            16.0
+
+TOTAL                144.0

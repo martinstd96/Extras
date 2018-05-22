@@ -1,0 +1,27 @@
+MENSAJE_TERMINAR="Ingrese '#' para salir."
+MENSAJE_PRINCIPAL="Ingrese una operacion para ejecutarla: "
+MENSAJE_PRODUCTO="Ingrese los datos del porducto separados entre ',': "
+MENSAJE_CODIGO="Ingrese el codigo del producto: "
+NO_CODIGO="El codigo ingresado no es valido."
+NO_OPERACION="La operacion ingresada no es valida."
+MENSAJE_DATOS_ENVIOS="Los datos a ingresar son: DNI,nombre y apellido,telefono,domicilio,piso,departamento."
+MENSAJE_ENVIOS="Ingrese los datos nombrados antes separados entre ',': "
+MENSAJE_FIN_VENTA="Ingrese '*' para finalizar la venta."
+MENSAJE_VENTA="Ingrese el producto que desea comprar: "
+MENSAJE_UNIDADES="Ingrese la cantidad de unidades que desea comprar:  "
+MENSAJE_NO_STOCK="No hay stock suficiente."
+MENSAJE_PRODUCTO_VENCIDO="El producto solicitado esta vencido."
+MENSAJE_PORCENTAJE="Ingrese el porcentaje: "
+NO_EXISTE_PRODUCTO="El producto ingresado no se encuentra."
+
+AGREGAR="agregar producto"
+ENVIO="envio"
+ELIMINAR="eliminar producto"
+LISTAR="listar productos"
+VENTA="venta"
+ACTUALIZAR_PRECIO="actualizar precio"
+
+TUPLA_ENCABEZADO=("Codigo","Descripcion","Stock","Precio","Vencimiento","Tipo")
+
+ARCHIVO_DATOS="base_datos.txt"
+ARCHIVO_TICKET="ticket.txt"
